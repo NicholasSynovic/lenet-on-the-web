@@ -1,5 +1,3 @@
-# gh-pages-md-inlineHTML-test
+# Markdown as HTML
 
-> A test of GitHub Pages Markdown inline HTML rendering
-
-<button type="button" onclick="console.log('fred')">Hello World</button>
+> A repository to test the limits of using inline HTML in Markdown documents

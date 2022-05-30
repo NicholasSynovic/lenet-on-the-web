@@ -28,7 +28,7 @@ I also reimplemented the default head tags for the theme.
 
 ### Button Test
 
-
+<button type="button" onclick="console.log('fred')">Click Me!</button>
 
 <!-- Required for loading the service worker -->
 <!-- https://www.geeksforgeeks.org/making-a-simple-pwa-under-5-minutes/ -->

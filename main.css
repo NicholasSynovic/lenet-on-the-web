@@ -1,0 +1,6 @@
+#canvas   {
+    width: 32;
+    height: 32;
+    border: 1px solid black;
+    image-rendering: pixelated;
+}
